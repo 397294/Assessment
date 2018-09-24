@@ -1,0 +1,28 @@
+F:\My Documents\c# progs\SWENG\Week1Recap\Week1Recap\bin\Debug\Week1Recap.exe.config
+F:\My Documents\c# progs\SWENG\Week1Recap\Week1Recap\bin\Debug\Week1Recap.exe
+F:\My Documents\c# progs\SWENG\Week1Recap\Week1Recap\bin\Debug\Week1Recap.pdb
+F:\My Documents\c# progs\SWENG\Week1Recap\Week1Recap\obj\Debug\Week1Recap.csprojResolveAssemblyReference.cache
+F:\My Documents\c# progs\SWENG\Week1Recap\Week1Recap\obj\Debug\Week1Recap.Form1.resources
+F:\My Documents\c# progs\SWENG\Week1Recap\Week1Recap\obj\Debug\Week1Recap.Properties.Resources.resources
+F:\My Documents\c# progs\SWENG\Week1Recap\Week1Recap\obj\Debug\Week1Recap.csproj.GenerateResource.Cache
+F:\My Documents\c# progs\SWENG\Week1Recap\Week1Recap\obj\Debug\Week1Recap.exe
+F:\My Documents\c# progs\SWENG\Week1Recap\Week1Recap\obj\Debug\Week1Recap.pdb
+F:\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\bin\Debug\Week1Recap.exe.config
+F:\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\bin\Debug\Week1Recap.exe
+F:\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\bin\Debug\Week1Recap.pdb
+F:\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.csprojResolveAssemblyReference.cache
+F:\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.Form1.resources
+F:\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.Properties.Resources.resources
+F:\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.csproj.GenerateResource.Cache
+F:\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.exe
+F:\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.pdb
+\\klstu1\1516\HS\397294\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\bin\Debug\Week1Recap.exe.config
+\\klstu1\1516\HS\397294\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\bin\Debug\Week1Recap.exe
+\\klstu1\1516\HS\397294\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\bin\Debug\Week1Recap.pdb
+\\klstu1\1516\HS\397294\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.csprojAssemblyReference.cache
+\\klstu1\1516\HS\397294\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.Form1.resources
+\\klstu1\1516\HS\397294\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.Properties.Resources.resources
+\\klstu1\1516\HS\397294\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.csproj.GenerateResource.cache
+\\klstu1\1516\HS\397294\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.csproj.CoreCompileInputs.cache
+\\klstu1\1516\HS\397294\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.exe
+\\klstu1\1516\HS\397294\My Documents\BTEC\YEAR 2 (PLEASE DONT DO THIS JOSH)\Week1Recap\Week1Recap\obj\Debug\Week1Recap.pdb
